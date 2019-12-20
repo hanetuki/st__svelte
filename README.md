@@ -1,9 +1,9 @@
 # command
-- first
+## first
 `yarn install` or `npm install`
 
-- develop
+## develop
 `yarn dev` or `npm run dev`
 
-- build
+## build
 `yarn build` or `npm run build`
